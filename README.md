@@ -47,6 +47,7 @@ We use the Cornell Movie-Dialogs Corpus:
 
 * Link: [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 * Contains \~24,000 question-answer pairs (one-turn dialogues) for training.
+* You need 2 files (movie_conversation.txt and movie_lines.txt)
 
 Ensure you download and place the dataset files in the appropriate data directory as explained below.
 
