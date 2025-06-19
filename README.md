@@ -4,7 +4,12 @@
 A sequence-to-sequence chatbot built using PyTorch, leveraging GRU-based encoder and decoder with attention mechanism. Trained on the Cornell Movie-Dialogs Corpus (approximately 24k conversational pairs), this project demonstrates an end-to-end pipeline: data preprocessing, model training, evaluation, and interactive inference (chat).
 
 ---
+<p align="center">
+  <img src="Screenshot 2025-06-19 135356.png" alt="Sample Gesture" width="450"/>
+  <img src="Screenshot 2025-06-19 135406.png" alt="Sample Gesture" width="350"/>
+</p>
 
+---
 ### 📋 Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -21,10 +26,6 @@ A sequence-to-sequence chatbot built using PyTorch, leveraging GRU-based encoder
 
 ---
 
-<p align="center">
-  <img src="Screenshot 2025-06-19 135356.png" alt="Sample Gesture" width="450"/>
-  <img src="Screenshot 2025-06-19 135406.png" alt="Sample Gesture" width="350"/>
-</p>
 
 ## Project Overview
 
