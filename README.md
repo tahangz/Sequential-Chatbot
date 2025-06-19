@@ -22,8 +22,8 @@ A sequence-to-sequence chatbot built using PyTorch, leveraging GRU-based encoder
 ---
 
 <p align="center">
-  <img src="Screenshot 2025-06-19 135356.png" alt="Sample Gesture" width="400"/>
-  <img src="Screenshot 2025-06-19 135406.png" alt="Sample Gesture" width="400"/>
+  <img src="Screenshot 2025-06-19 135356.png" alt="Sample Gesture" width="500"/>
+  <img src="Screenshot 2025-06-19 135406.png" alt="Sample Gesture" width="300"/>
 </p>
 
 ## Project Overview
